@@ -1,117 +1,76 @@
 # Documentação Ágil – TechFlow App 2.0
 
-## 1. Contexto do Projeto
+## 1. Visão Geral da Sprint
 
-A TechFlow App 2.0 identificou dificuldades na organização do fluxo de demandas e acompanhamento de solicitações de clientes.
+A Sprint foi estruturada com foco na organização e priorização de demandas do sistema de gestão de chamados, aplicando práticas de Scrum integradas ao fluxo visual do Kanban.
 
-Para solucionar esse problema, foi proposto o desenvolvimento de um Sistema de Gestão de Demandas e Suporte utilizando metodologias ágeis.
-
----
-
-## 2. Aplicação do Scrum
-
-### 2.1 Sprint Planning
-
-Na Sprint Planning foram definidos:
-
-- Seleção dos itens do Product Backlog
-- Estimativas utilizando Planning Poker
-- Definição do Sprint Goal
-
-Sprint 1 – Objetivo:
-> Implementar o módulo inicial de cadastro e acompanhamento de chamados.
-
-Itens selecionados:
-- Formulário de abertura de chamados
-- Registro no banco de dados
-- Listagem inicial de chamados
-- Layout inicial do painel
+Objetivo da Sprint:
+Entregar a funcionalidade de classificação de chamados por nível de urgência, garantindo organização e previsibilidade no fluxo de atendimento.
 
 ---
 
-### 2.2 Daily Scrum
+## 2. Product Backlog
 
-Reuniões diárias de 15 minutos com foco em:
+Funcionalidades priorizadas para desenvolvimento:
 
-1. O que foi feito?
-2. O que será feito?
-3. Há impedimentos?
+- Cadastro de chamados
+- Classificação por nível de urgência
+- Listagem com exibição de status
+- Painel visual de acompanhamento
+- Validação de categorias antes da conclusão
 
-Impedimentos foram registrados e resolvidos pelo Scrum Master.
-
----
-
-### 2.3 Sprint Review
-
-Funcionalidades apresentadas:
-
-- Cadastro funcional de chamados
-- Registro em banco de dados
-- Listagem com status
-- Componentes iniciais do painel
-
-Sugestão recebida:
-- Inclusão de categorização por nível de urgência.
+As demandas foram organizadas por valor de negócio e urgência.
 
 ---
 
-### 2.4 Sprint Retrospective
+## 3. Sprint Backlog
 
-Pontos positivos:
-- Comunicação eficiente
-- Uso organizado do Trello
+Itens selecionados para a Sprint atual:
 
-Melhorias definidas:
-- Padronização de commits
-- Checklist de revisão técnica
-- Daily extra às sextas-feiras
+- Implementação dos níveis de urgência (Baixa, Média, Alta)
+- Associação de cores para visualização rápida
+- Exibição da urgência na listagem
+- Validação obrigatória antes de concluir chamado
 
 ---
 
-## 3. Integração Scrum + Kanban
+## 4. Funcionalidade Desenvolvida: Classificação por Urgência
 
-A organização visual foi realizada utilizando Trello.
+### Objetivo
 
-Estrutura do quadro:
+Permitir priorização eficiente das demandas, garantindo melhor organização do fluxo de atendimento.
 
-- Product Backlog
-- Sprint Backlog
-- Em Progresso
-- Em Teste
-- Concluído
+### Critérios de Aceite
 
-Foram utilizadas:
-- Etiquetas de prioridade
-- Checklists
-- Critérios de aceite
-- Datas de entrega
+- Criar níveis: Baixa, Média e Alta
+- Associar cores distintas para cada nível
+- Exibir urgência na listagem de chamados
+- Validar categoria antes da conclusão da demanda
 
 ---
 
-## 4. Sprint Trabalhada (Exemplo Prático)
+## 5. Fluxo Kanban
 
-### Funcionalidade: Classificação por Urgência
+O fluxo foi estruturado no Trello da seguinte forma:
 
-Critérios de aceite:
-- Criar níveis (Baixa, Média, Alta)
-- Associar cores
-- Exibir urgência na listagem
-- Validar categoria antes da conclusão
+Product Backlog → Sprint Backlog → Em Progresso → Em Teste → Concluído
+
+Esse modelo permitiu visualização clara do andamento das tarefas e identificação rápida de gargalos.
 
 ---
 
-## 5. Benefícios da Aplicação Ágil
+## 6. Resultados da Aplicação Ágil
 
-- Transparência
-- Organização visual
+- Transparência no acompanhamento das tarefas
+- Melhor definição de prioridades
 - Entregas incrementais
-- Melhoria contínua
 - Redução de retrabalho
+- Maior previsibilidade do processo
 
 ---
 
-## 6. Conclusão
+## 7. Conclusão
 
-A aplicação integrada de Scrum e Kanban demonstrou como metodologias ágeis tornam o processo de desenvolvimento mais organizado, colaborativo e previsível.
+A integração entre Scrum e Kanban demonstrou como metodologias ágeis fortalecem organização, colaboração e controle do fluxo de desenvolvimento, mesmo em projetos simulados.
 
-O uso do Trello possibilitou controle visual completo do fluxo da Sprint, garantindo alinhamento entre planejamento, execução e entrega.
+A experiência reforçou a importância de critérios de aceite claros e gestão visual para eficiência nas entregas.
