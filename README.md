@@ -58,7 +58,9 @@ O quadro foi organizado nas seguintes etapas:
 - Testing
 - Done
 
-Os artefatos visuais (Kanban Board, Product Backlog e Sprint Backlog) estão disponíveis na pasta `imagens/`.
+Os artefatos visuais (Kanban Board, Product Backlog e Sprint Backlog) estão disponíveis na pasta `images/`.
+
+A documentação completa da aplicação ágil pode ser acessada em: `docs/documentacao-agil.md`
 
 ---
 
