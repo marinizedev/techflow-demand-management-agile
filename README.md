@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/marinizedev/techflow-demand-management-agile)
+
+
 # TechFlow App 2.0 – Sistema de Gestão de Demandas
 
 Projeto acadêmico desenvolvido na disciplina de Metodologias Ágeis, com aplicação prática dos frameworks Scrum e Kanban para organização e desenvolvimento de um sistema de gestão de chamados.
