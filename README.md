@@ -1,13 +1,13 @@
 # TechFlow App 2.0 – Demand Management System
 
-Projeto com aplicação prática de metodologias ágeis para organização e desenvolvimento de um sistema de gestão de chamados.
+Projeto com aplicação prática de metodologias ágeis para organização e estruturação do desenvolvimento de um sistema de gestão de chamados.
 
 ---
 
 
 ## Context
 
-A TechFlow App 2.0  simula uma startup focada em soluções digitais para pequenas e médias empresas. 
+A TechFlow App 2.0 simula uma startup focada em soluções digitais para pequenas e médias empresas. 
 
 O sistema foi idealizado para centralizar chamados de suporte, organizar demandas e melhorar a comunicação entre equipe técnica e clientes, aplicando na prática os frameworks Scrum e Kanban.
 
@@ -42,7 +42,7 @@ O sistema foi idealizado para centralizar chamados de suporte, organizar demanda
 
 ## Tools Used
 
-- Vs Code
+- VS Code
 - Trello
 - Git & GitHub
 
@@ -58,7 +58,7 @@ O quadro foi organizado nas seguintes etapas:
 - Testing
 - Done
 
-Os artefatos visuais (Kanban Board, Product Backlog e Sprint Backlog) estão disponíveis na pasta /`imagens`.
+Os artefatos visuais (Kanban Board, Product Backlog e Sprint Backlog) estão disponíveis na pasta `imagens/`.
 
 ---
 
